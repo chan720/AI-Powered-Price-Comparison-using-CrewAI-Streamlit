@@ -1,6 +1,6 @@
 # 🛒 AI-Powered Price Comparison using CrewAI & Streamlit
 
-## 🚀 Overview
+## 🚀 Overviews
 This project is an **AI-powered product price comparison tool** built using **CrewAI** and **Streamlit**.  
 It helps users **search for products across e-commerce platforms**, **clean the data**, **compare prices**, and **display the best deal**.
 
